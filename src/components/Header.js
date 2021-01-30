@@ -6,6 +6,7 @@ const Header = ({title}) => {
             <div className="container">
                 <div className="content">
                     <h1 className="title">{title}</h1>
+                    <h2 className="subtitle">Subtitulo</h2>
                     <p className="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, nostrum eaque.</p>
                 </div>
             </div>
